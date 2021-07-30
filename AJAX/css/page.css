@@ -1,0 +1,29 @@
+.form-item{
+    text-align: center;
+}
+
+input{
+    width: 30%;
+    padding: 0.5%;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+
+label{
+    color:black;
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+}
+
+#btn{
+    width: 13%;
+    margin:auto;
+}
+
+body{
+    background: url("../material/choc.jpg");
+    background-size: cover;
+    
+}
