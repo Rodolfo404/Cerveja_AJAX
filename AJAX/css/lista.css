@@ -40,7 +40,13 @@ table thead{
     #btn1{
         width: 15%;
         margin: 10px 550px;
+        cursor: pointer;
     }
+    #btm{
+    width: 15%;
+    margin-left: 550px;
+    cursor: pointer;
+}
 
     body{
         background: url("../material/choc2.jpg");
